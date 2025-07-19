@@ -6,9 +6,9 @@
 </p>
 
 ---
-
+ 
 ### 👨‍💻 Sobre mim
-
+- 👽 Pentester Jr @Plano-Artistico
 - 🎓 Estudante de Ciência da Computação  
 - 🎯 Foco: Defesa Cibernética e Tecnologia Militar  
 - 🛠️ Áreas de interesse: Criptografia, Inteligência Artificial, Redes Seguras, Análise de Vulnerabilidades  
