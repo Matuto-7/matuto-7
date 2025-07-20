@@ -1,4 +1,14 @@
+
+
+
+![alucard-evil-grin](https://github.com/user-attachments/assets/427fd3e8-7861-4809-80ba-a899aeb6cf6d)
+
+
+
+
+
 <h1 align="center">🪖 Matheus | Tech & Tactical</h1>
+
 
 <p align="center">
   Explorando o campo da <strong>Ciência da Computação</strong> com foco em <strong>Segurança Cibernética</strong> e aplicações militares.  
