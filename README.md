@@ -1,8 +1,7 @@
 <h1 align="center">🪖 Matheus | Tech & Tactical</h1>
 
 
-
-![Uploading alucard-evil-grin.gif…]()
+![alucard-evil-grin](https://github.com/user-attachments/assets/3736cf30-1fee-44da-a5f0-3252be1a9fa5)
 
 
 
