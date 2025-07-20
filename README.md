@@ -1,5 +1,13 @@
 <h1 align="center">🪖 Matheus | Tech & Tactical</h1>
 
+
+
+![Uploading alucard-evil-grin.gif…]()
+
+
+
+
+
 <p align="center">
   Explorando o campo da <strong>Ciência da Computação</strong> com foco em <strong>Segurança Cibernética</strong> e aplicações militares.  
   <br/>Em missão constante para unir <em>código, estratégia e proteção</em>.  
