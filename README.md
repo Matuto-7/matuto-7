@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/uSBNv4S05OqgBff2Q0/giphy.gif" width="300px" alt="Alucard Hellsing"/>
+<img width="540" height="303" alt="hellsing" src="https://github.com/user-attachments/assets/463ff0d3-71c4-408f-bf19-aa17bc42349b" />
     </td>
     <td width="50%">
       <h3>Who Am I? 🎯</h3>
