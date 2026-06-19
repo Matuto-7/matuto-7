@@ -1,17 +1,17 @@
-# 🪖 Matheus | Tech & Tactical
+# 🦠 **𝔐𝔞𝔱𝔥𝔢𝔲𝔰 | 𝔗𝔢𝔠𝔥 & 𝔗𝔞𝔠𝔱𝔦𝔠𝔞𝔩**
 
 <table align="center">
   <tr>
-    <td width="45%" align="center">
-      <img src="https://raw.githubusercontent.com/matuto-7/matuto-7/main/sua-imagem.gif" width="320px" alt="Alucard Hellsing"/>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/uSBNv4S05OqgBff2Q0/giphy.gif" width="300px" alt="Alucard Hellsing"/>
     </td>
-    <td width="55%">
+    <td width="50%">
       <h3>Who Am I? 🎯</h3>
       <p>Estudante de <b>Ciência da Computação</b> focado em <b>Segurança Cibernética</b>, Defesa Cibernética e Tecnologia Militar.</p>
       <p>Atuo no desenvolvimento de laboratórios de redes, simulações de testes de invasão (Penetration Testing) e automação de scripts defensivos/ofensivos.</p>
       <p><i>"Em missão constante para unir código, estratégia e proteção."</i></p>
       
-      <p align="left">
+      <p align="center">
         <a href="mailto:mdescolado45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
         <a href="https://instagram.com/sueth_fxb"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
       </p>
